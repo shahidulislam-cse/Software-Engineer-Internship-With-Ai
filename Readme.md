@@ -90,3 +90,70 @@ After 6 months, you will be able to:
 ---
 
 ## 📈 Weekly Reflection Template
+
+
+
+**Week:** <Week # or Dates>  
+**Intern:** Shahidul  
+
+---
+
+### 1️⃣ Goals for the Week
+- What I aimed to achieve this week:
+  - 
+  - 
+  - 
+
+### 2️⃣ Tasks Completed
+- Features implemented:
+  - 
+  - 
+- Bugs fixed / issues resolved:
+  - 
+  - 
+
+### 3️⃣ Learnings
+- New technologies, libraries, or patterns learned:
+  - 
+- Best practices discovered:
+  - 
+- Mistakes and lessons learned:
+  - 
+
+### 4️⃣ Challenges / Blockers
+- Technical challenges:
+  - 
+- Roadblocks in workflow or understanding:
+  - 
+- How I addressed them / plan to solve:
+  - 
+
+### 5️⃣ Feedback / Mentor Notes
+- Advice received:
+  - 
+- Feedback applied:
+  - 
+
+### 6️⃣ Next Week Plan
+- Features or tasks to focus on:
+  - 
+- Learning goals:
+  - 
+- Improvements to workflow:
+  - 
+
+---
+
+**Reflection Summary:**  
+A short paragraph summarizing your progress, confidence, and key takeaways from this week.
+
+## 🏁 End-of-Internship Deliverables
+
+- Full-stack Task Manager app (production-ready)  
+- GitHub repo with branches, PRs, commits, and README  
+- Unit & integration tests  
+- CI/CD pipeline configured (GitHub Actions)  
+- Documentation & reflection notes  
+- Ready to join professional software teams  
+
+---
