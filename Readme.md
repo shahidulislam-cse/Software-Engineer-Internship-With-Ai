@@ -194,19 +194,19 @@ Act as my mentor and guide me **step-by-step** in a **real-world, industry-stand
 
 Today: Set up Day-1 starter project.
 
-   -Vite + React + Tailwind CSS setup
+   - Vite + React + Tailwind CSS setup
    
-   -Create Header component
+   - Create Header component
    
-   -Add Home and About pages with React Router
+   - Add Home and About pages with React Router
    Please give:
    
-   -Exact commands to run
+   - Exact commands to run
+    
+   - Folder structure and file contents
    
-   -Folder structure and file contents
+   - Step-by-step explanation of why
    
-   -Step-by-step explanation of why
+   - Testing instructions
    
-   -Testing instructions
-   
-   -Next steps for the week
+   - Next steps for the week
