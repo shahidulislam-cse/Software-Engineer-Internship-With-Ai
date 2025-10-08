@@ -46,3 +46,47 @@ After 6 months, you will be able to:
 ## 📁 Recommended Project Structure
 ![Project Logo](Structure.png)
 
+
+---
+
+## 🚀 Workflow (Industry Practices)
+
+1. **Daily Routine**
+   - Morning: Review tasks + plan coding
+   - Afternoon: Implement features, write code
+   - Evening: Commit & push changes
+2. **Git Workflow**
+   - `main` branch = production-ready
+   - `feature/<name>` branches = new features
+   - PRs for review: concise, descriptive commits
+3. **Testing & Linting**
+   - Run unit tests before PR
+   - Prettier + ESLint for code style
+4. **Agile-style Planning**
+   - Work in weekly sprints
+   - Keep backlog of tasks
+   - Reflect weekly on challenges & learning
+
+---
+
+## 📘 Learning & Reference
+
+**Google Search / Docs Examples**
+- `"React useState vs useReducer example"`
+- `"React Router v6 nested routes example"`
+- `"React Hook Form validation example"`
+- `"Axios CRUD request React"`
+- `"Tailwind CSS responsive layout"`
+- `"Node.js Express CRUD API MongoDB tutorial"`
+- `"JWT authentication Node.js React"`
+
+**Additional Reading**
+- [React Docs](https://reactjs.org/docs/getting-started.html)  
+- [MDN Web Docs (JS/HTML/CSS)](https://developer.mozilla.org/)  
+- [Node.js Docs](https://nodejs.org/en/docs/)  
+- [Tailwind CSS Docs](https://tailwindcss.com/docs/installation)  
+- [Redux Toolkit Docs](https://redux-toolkit.js.org/)  
+
+---
+
+## 📈 Weekly Reflection Template
