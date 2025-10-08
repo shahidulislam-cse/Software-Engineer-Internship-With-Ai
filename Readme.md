@@ -44,5 +44,5 @@ After 6 months, you will be able to:
 ---
 
 ## 📁 Recommended Project Structure
-
+![Project Logo](Structure.png)
 
