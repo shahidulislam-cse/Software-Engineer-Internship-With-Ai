@@ -45,18 +45,4 @@ After 6 months, you will be able to:
 
 ## 📁 Recommended Project Structure
 
-project-name/
-├── src/
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Route-level components
-│ ├── hooks/ # Custom hooks (useAuth, useFetch)
-│ ├── services/ # API calls & backend services
-│ ├── context/ # Global state / context
-│ ├── styles/ # Tailwind/global CSS
-│ ├── App.jsx # Top-level app with router
-│ └── main.jsx # React DOM mount
-├── public/
-├── package.json
-├── tailwind.config.js
-├── vite.config.js
-└── README.md
+
