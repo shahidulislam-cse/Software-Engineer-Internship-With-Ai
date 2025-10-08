@@ -1,7 +1,7 @@
 # 🏢 Software Engineer Internship (6-Month Industry-Ready)  
 
 **Mentor:** ChatGPT – Senior Software Engineer  
-**Intern:** Shahidul  
+**Intern:** (e.g Shahidul ) 
 
 ---
 
