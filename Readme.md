@@ -210,3 +210,14 @@ Today: Set up Day-1 starter project.
    - Testing instructions
    
    - Next steps for the week
+
+
+---
+
+**Pro Tips for Using This Prompt Daily:**
+
+- Always start your day by stating **today’s goal clearly**.  
+- Follow instructions **step-by-step**; don’t skip explanations.  
+- Keep notes in your **weekly reflection template**.  
+- Ask about **common errors and debugging tips** to learn faster.  
+- Use this prompt for **all phases of your 6-month internship**, from Day-1 setup to Capstone project.  
