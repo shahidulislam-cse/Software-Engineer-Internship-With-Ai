@@ -221,3 +221,81 @@ Today: Set up Day-1 starter project.
 - Keep notes in your **weekly reflection template**.  
 - Ask about **common errors and debugging tips** to learn faster.  
 - Use this prompt for **all phases of your 6-month internship**, from Day-1 setup to Capstone project.  
+
+
+# 🐞 Debug Prompt – Software Engineer Workflow
+
+**Purpose:**  
+Help a Junior Engineer (you) debug issues like a professional, systematically and efficiently.
+
+---
+
+## 🔹 How to Use This Prompt
+
+1. **State the Problem Clearly**  
+
+### Problem Description:
+
+   - What is happening (error message, unexpected behavior)?
+   
+   - What did you expect to happen?
+   
+   - Steps to reproduce the problem
+
+2. **Ask for Debug Guidance**  
+Request the following from your mentor (ChatGPT):
+- Step-by-step approach to identify the root cause
+- Suggested tools, logs, or console commands to inspect
+- Common causes for this error
+- Fix examples with code snippets
+- Verification steps to confirm the issue is resolved
+  
+---
+
+3. **Include Your Environment**  
+   - Environment:
+   
+   - OS: Windows / Mac / Linux
+   
+   - Node / React / Backend version
+   
+   - Browser / Editor
+   
+   - Libraries & versions used
+  
+---
+
+
+---
+
+## 🔹 Debugging Workflow
+
+| Step | Action |
+|------|--------|
+| **1. Reproduce** | Make sure you can consistently reproduce the error. Document steps. |
+| **2. Read Error Messages Carefully** | Copy console/log outputs, inspect stack traces, line numbers. |
+| **3. Isolate** | Narrow down which file, function, or component is causing the problem. |
+| **4. Inspect** | Use `console.log`, breakpoints, or debugging tools. Check variable values, state, API responses. |
+| **5. Hypothesize** | Think about possible reasons why the error occurs. Compare with expected behavior. |
+| **6. Test Fixes** | Apply small changes, re-test frequently. Avoid big changes at once. |
+| **7. Verify** | Confirm the fix works in all edge cases and components are not broken. |
+| **8. Document** | Write down the cause, fix, and key learning in your notes. |
+
+---
+
+
+---
+
+## 🔹 Pro Tips for Debugging Like an Industry Engineer
+
+- **Reproduce consistently:** Only then can you fix reliably.  
+- **Small changes first:** Change one thing at a time to see the effect.  
+- **Use console & devtools:** `console.log`, Chrome/Edge devtools, React DevTools.  
+- **Check dependencies & versions:** Mismatched libraries often cause subtle bugs.  
+- **Read docs & error codes:** Most library/framework errors are documented.  
+- **Ask targeted questions:** Provide error message, environment, and what you tried.  
+- **Reflect:** Document how you solved the problem; this improves your debugging skill exponentially.  
+
+
+
+
