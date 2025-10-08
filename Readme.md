@@ -266,7 +266,7 @@ Request the following from your mentor (ChatGPT):
 ---
 
 
----
+
 
 ## 🔹 Debugging Workflow
 
@@ -284,7 +284,7 @@ Request the following from your mentor (ChatGPT):
 ---
 
 
----
+
 
 ## 🔹 Pro Tips for Debugging Like an Industry Engineer
 
